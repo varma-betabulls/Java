@@ -1,0 +1,316 @@
+<!DOCTYPE html>
+<!-- saved from url=(0021)http://betabulls.com/ -->
+<html lang="en" class="yui3-js-enabled" id="yui_patched_v3_11_0_2_1481015489768_165"><head><meta http-equiv="Content-Type" content="text/html; charset=UTF-8">
+ 
+
+ 
+<meta name="viewport" content="width=device-width, initial-scale=1.0">
+
+ 
+<meta http-equiv="X-UA-Compatible" content="IE=edge,chrome=1">
+ 
+<title>BetaBulls | Lean MVP development &amp; Co-founder services for Start-ups.</title>
+<meta name="description" content="Lean MVP development &amp; Co-founder services for Start-ups.				">
+<meta name="keywords" content="Lean MVP development services, Co-founder services, Start-ups, BetaBulls, Beta Bulls, MVP, Lean UX, Lean Startup, Lean MVP">
+<meta name="author" content="BetaBulls">
+ 
+<meta name="generator" content="DocPad v6.64.0">
+ 
+<script data-rocketsrc="http://dnn506yrbagrg.cloudfront.net/pages/scripts/0022/0190.js?411393" data-rocketoptimized="true" async="" type="text/javascript"></script><script type="text/javascript" src="./Start-ups_files/0190.js.download"></script><script async="" defer="true" src="./Start-ups_files/visits"></script><script type="text/javascript" async="" src="./Start-ups_files/ga.js.download"></script><script type="text/javascript">
+//<![CDATA[
+try{if (!window.CloudFlare) {var CloudFlare=[{verbose:0,p:0,byc:0,owlid:"cf",bag2:1,mirage2:0,oracle:0,paths:{cloudflare:"/cdn-cgi/nexp/dok3v=1613a3a185/"},atok:"3e6299acb7793857dd4cae8e3993df67",petok:"ffcb06a50bd59c72f08054be082e74c0117bdcb7-1481015480-7200",zone:"betabulls.com",rocket:"a",apps:{"ga_key":{"ua":"UA-48392716-1","ga_bs":"2"},"abetterbrowser":{"ie":"8"}}}];document.write('<script type="text/javascript" src="//ajax.cloudflare.com/cdn-cgi/nexp/dok3v=088620b277/cloudflare.min.js"><'+'\/script>');}}catch(e){};
+//]]>
+</script><script type="text/javascript" src="./Start-ups_files/cloudflare.min.js.download"></script><style type="text/css">.cf-hidden { display: none; } .cf-invisible { visibility: hidden; }</style><script data-module="cloudflare/rocket" id="cfjs_block_10fb7abfd68" onload="CloudFlare.__cfjs_block_10fb7abfd68_load()" onerror="CloudFlare.__cfjs_block_10fb7abfd68_error()" onreadystatechange="CloudFlare.__cfjs_block_10fb7abfd68_readystatechange()" type="text/javascript" src="./Start-ups_files/rocket.js.download"></script>
+<link rel="shortcut icon" href="http://betabulls.com/favicon.ico">
+ 
+<!--[if lt IE 9]>
+		<script async src="http://html5shim.googlecode.com/svn/trunk/html5.js"></script>
+	<![endif]-->
+ 
+<link rel="stylesheet" href="./Start-ups_files/pure-min.css">
+<link rel="stylesheet" href="./Start-ups_files/bootstrap.min.css">
+<link rel="stylesheet" href="./Start-ups_files/style.css">
+<link rel="stylesheet" href="./Start-ups_files/font-awesome.min.css">
+ 
+<!--[if lt IE 9]>
+      <script src="https://oss.maxcdn.com/libs/html5shiv/3.7.0/html5shiv.js"></script>
+      <script src="https://oss.maxcdn.com/libs/respond.js/1.3.0/respond.min.js"></script>
+    <![endif]-->
+ 
+<style type="text/css">#fixedForBetaBulls img{position:fixed;top:113px;right:-1px;color:red;height:118px;}</style>
+<script data-rocketsrc="https://code.jquery.com/jquery-2.2.4.js" integrity="sha256-iT6Q9iMJYuQiMWNd9lDyBUStIq/8PuOW33aOqmvFpqI=" crossorigin="anonymous" type="text/rocketscript" data-rocketoptimized="true"></script>
+<script type="text/rocketscript" data-rocketoptimized="true">
+	$(document).ready(function(){
+	var country='';
+jQuery.get("http://ip-api.com/json", function(response) {
+country = response.country;
+if(country == "India")
+ {
+	 window.location.href="http://betabulls.in";
+	 }
+}, "jsonp");
+	});
+
+</script>
+<script type="text/javascript">
+/* <![CDATA[ */
+var _gaq = _gaq || [];
+_gaq.push(['_setAccount', 'UA-48392716-1']);
+_gaq.push(['_trackPageview']);
+
+(function() {
+var ga = document.createElement('script'); ga.type = 'text/javascript'; ga.async = true;
+ga.src = ('https:' == document.location.protocol ? 'https://ssl' : 'http://www') + '.google-analytics.com/ga.js';
+var s = document.getElementsByTagName('script')[0]; s.parentNode.insertBefore(ga, s);
+})();
+
+(function(b){(function(a){"__CF"in b&&"DJS"in b.__CF?b.__CF.DJS.push(a):"addEventListener"in b?b.addEventListener("load",a,!1):b.attachEvent("onload",a)})(function(){"FB"in b&&"Event"in FB&&"subscribe"in FB.Event&&(FB.Event.subscribe("edge.create",function(a){_gaq.push(["_trackSocial","facebook","like",a])}),FB.Event.subscribe("edge.remove",function(a){_gaq.push(["_trackSocial","facebook","unlike",a])}),FB.Event.subscribe("message.send",function(a){_gaq.push(["_trackSocial","facebook","send",a])}));"twttr"in b&&"events"in twttr&&"bind"in twttr.events&&twttr.events.bind("tweet",function(a){if(a){var b;if(a.target&&a.target.nodeName=="IFRAME")a:{if(a=a.target.src){a=a.split("#")[0].match(/[^?=&]+=([^&]*)?/g);b=0;for(var c;c=a[b];++b)if(c.indexOf("url")===0){b=unescape(c.split("=")[1]);break a}}b=void 0}_gaq.push(["_trackSocial","twitter","tweet",b])}})})})(window);
+/* ]]> */
+</script>
+<script src="./Start-ups_files/application2.js.download" async="" defer="" data-cfasync="false"></script><style type="text/css">.olark-key,#hbl_code,#olark-data{display: none !important;}</style><link id="habla_style_div" type="text/css" rel="stylesheet" href="./Start-ups_files/3971c742ac2346c431f086113e61d518.css"><style type="text/css">#olk-b-16994 .cancel-button-olk-14145,#olk-b-16994 .referral-button-olk-14145{font-family:"Helvetica Neue",HelveticaNeue,Helvetica,Arial,sans-serif !important;font-size:14px !important;font-weight:bold !important;border-radius:3px !important;border:1px solid #d65129;-webkit-font-smoothing:antialiased;width:80% !important;padding:10px 15px !important;margin-bottom:10px !important;transition:.03s;}#olk-b-16994 .cancel-button-olk-14145:hover,#olk-b-16994 .referral-button-olk-14145:hover{border:1px solid #c14925}#olk-b-16994 .cancel-button-olk-14145:focus,#olk-b-16994 .referral-button-olk-14145:focus{outline:0}#olk-b-16994{width:100% !important;display:inline-block !important}#olk-b-16994 .wrapper-olk-14145{background:#fff;border-left:1px solid #ededed;border-right:1px solid #ededed;text-align:center;width:100%;position:absolute;top:34px;right:0;bottom:0;left:0;padding:10px;box-sizing:border-box;overflow-y:auto}#olk-b-16994 .description-olk-14145{font-size:14px;font-family:"Helvetica Neue",HelveticaNeue,Helvetica,Arial,sans-serif;line-height:1.4em;margin:0 0 15px}#olk-b-16994 .cancel-button-olk-14145{background:#d65129;color:#fff;}#olk-b-16994 .cancel-button-olk-14145:hover{background:#c14925}#olk-b-16994 .referral-button-olk-14145{background:#fff;color:#d65129;}#olk-b-16994 .referral-button-olk-14145:hover{color:#c14925}#olk-b-16994 .brand-olk-14145{color:#a6aeb0 !important;font-family:"Helvetica Neue",HelveticaNeue,Helvetica,Arial,sans-serif !important;padding:0 !important;font-size:11px !important;margin:0 0 5px 10px !important;display:inline-block !important;transition:.03s;}#olk-b-16994 .brand-olk-14145:hover{color:#d65129 !important}</style><style type="text/css">@media print {#habla_beta_container_do_not_rely_on_div_classes_or_names {display: none !important}}</style><link charset="utf-8" rel="stylesheet" id="yui_patched_v3_11_0_1_1481015489768_2" href="./Start-ups_files/combo.php"><script charset="utf-8" id="yui_patched_v3_11_0_1_1481015489768_4" data-rocketsrc="http://cdn.alloyui.com/combo/combo.php?../2.0.0/oop/oop-min.js&amp;../2.0.0/event-custom-base/event-custom-base-min.js&amp;../2.0.0/dom-core/dom-core-min.js&amp;../2.0.0/dom-base/dom-base-min.js&amp;../2.0.0/selector-native/selector-native-min.js&amp;../2.0.0/selector/selector-min.js&amp;../2.0.0/node-core/node-core-min.js&amp;../2.0.0/node-base/node-base-min.js&amp;../2.0.0/event-base/event-base-min.js&amp;../2.0.0/event-delegate/event-delegate-min.js&amp;../2.0.0/node-event-delegate/node-event-delegate-min.js&amp;../2.0.0/pluginhost-base/pluginhost-base-min.js&amp;../2.0.0/pluginhost-config/pluginhost-config-min.js&amp;../2.0.0/node-pluginhost/node-pluginhost-min.js&amp;../2.0.0/color-base/color-base-min.js&amp;../2.0.0/dom-style/dom-style-min.js&amp;../2.0.0/dom-screen/dom-screen-min.js&amp;../2.0.0/node-screen/node-screen-min.js&amp;../2.0.0/node-style/node-style-min.js&amp;../2.0.0/event-custom-complex/event-custom-complex-min.js&amp;../2.0.0/event-synthetic/event-synthetic-min.js&amp;../2.0.0/event-mousewheel/event-mousewheel-min.js&amp;../2.0.0/event-mouseenter/event-mouseenter-min.js" data-rocketoptimized="true" async=""></script><script charset="utf-8" id="yui_patched_v3_11_0_1_1481015489768_5" data-rocketsrc="http://cdn.alloyui.com/combo/combo.php?../2.0.0/event-key/event-key-min.js&amp;../2.0.0/event-focus/event-focus-min.js&amp;../2.0.0/event-resize/event-resize-min.js&amp;../2.0.0/event-hover/event-hover-min.js&amp;../2.0.0/event-outside/event-outside-min.js&amp;../2.0.0/event-touch/event-touch-min.js&amp;../2.0.0/event-move/event-move-min.js&amp;../2.0.0/event-flick/event-flick-min.js&amp;../2.0.0/event-valuechange/event-valuechange-min.js&amp;../2.0.0/event-tap/event-tap-min.js&amp;../2.0.0/attribute-core/attribute-core-min.js&amp;../2.0.0/attribute-observable/attribute-observable-min.js&amp;../2.0.0/attribute-extras/attribute-extras-min.js&amp;../2.0.0/attribute-base/attribute-base-min.js&amp;../2.0.0/attribute-complex/attribute-complex-min.js&amp;../2.0.0/base-core/base-core-min.js&amp;../2.0.0/base-observable/base-observable-min.js&amp;../2.0.0/base-base/base-base-min.js&amp;../2.0.0/base-pluginhost/base-pluginhost-min.js&amp;../2.0.0/classnamemanager/classnamemanager-min.js&amp;../2.0.0/widget-base/widget-base-min.js&amp;../2.0.0/widget-htmlparser/widget-htmlparser-min.js" data-rocketoptimized="true" async=""></script><script charset="utf-8" id="yui_patched_v3_11_0_1_1481015489768_6" data-rocketsrc="http://cdn.alloyui.com/combo/combo.php?../2.0.0/widget-skin/widget-skin-min.js&amp;../2.0.0/widget-uievents/widget-uievents-min.js&amp;../2.0.0/base-build/base-build-min.js&amp;../2.0.0/widget-autohide/widget-autohide-min.js&amp;../2.0.0/button-core/button-core-min.js&amp;../2.0.0/button-plugin/button-plugin-min.js&amp;../2.0.0/widget-stdmod/widget-stdmod-min.js&amp;../2.0.0/widget-buttons/widget-buttons-min.js&amp;../2.0.0/widget-modality/widget-modality-min.js&amp;../2.0.0/widget-position/widget-position-min.js&amp;../2.0.0/widget-position-align/widget-position-align-min.js&amp;../2.0.0/widget-position-constrain/widget-position-constrain-min.js&amp;../2.0.0/widget-stack/widget-stack-min.js&amp;../2.0.0/yui-throttle/yui-throttle-min.js&amp;../2.0.0/dd-ddm-base/dd-ddm-base-min.js&amp;../2.0.0/dd-drag/dd-drag-min.js&amp;../2.0.0/dd-plugin/dd-plugin-min.js&amp;../2.0.0/dd-constrain/dd-constrain-min.js&amp;../2.0.0/dd-ddm/dd-ddm-min.js&amp;../2.0.0/dd-ddm-drop/dd-ddm-drop-min.js&amp;../2.0.0/dd-drop/dd-drop-min.js&amp;../2.0.0/dd-drop-plugin/dd-drop-plugin-min.js" data-rocketoptimized="true" async=""></script><script charset="utf-8" id="yui_patched_v3_11_0_1_1481015489768_7" data-rocketsrc="http://cdn.alloyui.com/combo/combo.php?../2.0.0/dd-delegate/dd-delegate-min.js&amp;../2.0.0/resize-base/resize-base-min.js&amp;../2.0.0/plugin/plugin-min.js&amp;../2.0.0/resize-plugin/resize-plugin-min.js&amp;../2.0.0/aui-classnamemanager/aui-classnamemanager-min.js&amp;../2.0.0/aui-widget-cssclass/aui-widget-cssclass-min.js&amp;../2.0.0/aui-widget-toggle/aui-widget-toggle-min.js&amp;../2.0.0/arraylist/arraylist-min.js&amp;../2.0.0/arraylist-add/arraylist-add-min.js&amp;../2.0.0/aui-component/aui-component-min.js&amp;../2.0.0/button/button-min.js&amp;../2.0.0/button-group/button-group-min.js&amp;../2.0.0/aui-button-core/aui-button-core-min.js&amp;../2.0.0/aui-toolbar/aui-toolbar-min.js&amp;../2.0.0/aui-widget-toolbars/aui-widget-toolbars-min.js&amp;../2.0.0/aui-modal/aui-modal-min.js" data-rocketoptimized="true" async=""></script></head>
+<body id="yui_patched_v3_11_0_2_1481015489768_164"><div id="olark" style="display: none;"><olark><iframe frameborder="0" id="olark-loader" src="./Start-ups_files/saved_resource.html"></iframe></olark></div>
+ 
+ 
+<div class="content main pure-g-r" id="yui_patched_v3_11_0_2_1481015489768_163">
+<div class="main-inner" id="yui_patched_v3_11_0_2_1481015489768_162">
+<div class="header pure-u-1" id="yui_patched_v3_11_0_2_1481015489768_161">
+<div class="pure-menu pure-menu-open pure-menu-fixed pure-menu-horizontal" id="yui_patched_v3_11_0_2_1481015489768_160">
+<a itemscope="" itemtype="http://schema.org/Organization" href="http://betabulls.com/"><span itemprop="name" class="pure-menu-heading">BETA<span itemscope="" itemtype="http://schema.org/ImageObject">
+ 
+<svg itemprop="logo" version="1.1" id="betabulls-svg-icon" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" x="0px" y="0px" viewBox="0 0 158.8 155.3" enable-background="new 0 0 158.8 155.3" xml:space="preserve" style="opacity: 0.7;">
+<path fill="#FF282B" d="M79.6,55C68.4,55,58.8,46.6,52.8,37.2c-2.2-3.4-4.1-7.1-4.6-11.1C47.1,18,51.7,10.3,56,3.4
+		c-2.2-0.8-4.4,0.9-6.2,2.4c-3.8,3.2-7.5,6.4-11.3,9.7c-2.5,2.1-5,4.3-6.9,7c-6,8.4-4.1,21.5,4.1,27.8c3.5,2.7,8.4,4.9,9.2,9.3
+		c-3.7,2.2-8.4,1.1-12.8,1.2c-5.7,0-11.3,2.2-15.6,6c-4.5,4-8,9.9-14,10.7c4.3,6.4,13.4,6.9,20.9,5.6c7.9-1.4,15.6-4.1,22.7-7.9
+		c-2.1,8.6-0.8,18,3.5,25.7c2.8,5,6.8,9.3,8.9,14.7c2.4,6.1,2.1,12.9,0.8,19.3c-1.1,5.1-2.3,11.5,1.9,14.5c0.8,0.6,1.8,1,2.7,1.4
+		c7.7,3.1,7.4,2.8,15.7,3.2L79.6,55z"></path>
+<path fill="#F2F2F2" d="M79.2,55C90.4,55,100,46.6,106,37.2c2.2-3.4,4.1-7.1,4.6-11.1c1.1-8.1-3.5-15.8-7.8-22.7
+		c2.2-0.8,4.4,0.9,6.2,2.4c3.8,3.2,7.5,6.4,11.3,9.7c2.5,2.1,5,4.3,6.9,7c6,8.4,4.1,21.5-4.1,27.8c-3.5,2.7-8.4,4.9-9.2,9.3
+		c3.7,2.2,8.4,1.1,12.8,1.2c5.7,0,11.3,2.2,15.6,6c4.5,4,8,9.9,14,10.7c-4.3,6.4-13.4,6.9-20.9,5.6c-7.9-1.4-15.6-4.1-22.7-7.9
+		c2.1,8.6,0.8,18-3.5,25.7c-2.8,5-6.8,9.3-8.9,14.7c-2.4,6.1-2.1,12.9-0.8,19.3c1.1,5.1,2.3,11.5-1.9,14.5c-0.8,0.6-1.8,1-2.7,1.4
+		c-7.7,3.1-7.4,2.8-15.7,3.2L79.2,55z"></path>
+<path fill="#F2F2F2" d="M55.9,81.4c0.8,0.7,2.1,3.2,2.7,4.1c0.7,1,1.8,1.7,2.9,2.3c1.7,1,3.3,1.9,5.2,2.4c1-0.4,2.1-1.2,2.3-2.3
+		c0.2-1-0.3-2-1-2.8c-2.5-3.1-6.5-4.6-10.4-5c-0.5,0-1.9-0.1-2.4-0.3"></path>
+<path fill="#FF1D25" d="M102.3,81.4c-0.8,0.7-2.1,3.2-2.7,4.1c-0.7,1-1.8,1.7-2.9,2.3c-1.7,1-3.3,1.9-5.2,2.4
+		c-1-0.4-2.1-1.2-2.3-2.3c-0.2-1,0.3-2,1-2.8c2.5-3.1,6.5-4.6,10.4-5c0.5,0,1.9-0.1,2.4-0.3"></path>
+</svg>
+</span>
+BULLS</span></a>
+<ul class="header-nav">
+ 
+<li typeof="sioc:Page" about="/pages/how-it-works" class="">
+<a href="http://betabulls.com/pages/how-it-works" property="dc:title">HOW IT WORKS</a>
+</li>
+<li typeof="sioc:Page" about="/pages/pricing" class="">
+<a href="http://betabulls.com/pages/pricing" property="dc:title">PRICING</a>
+</li>
+<li typeof="sioc:Page" about="/pages/faq" class="">
+<a href="http://betabulls.com/pages/faq" property="dc:title">FAQ</a>
+</li>
+<li typeof="sioc:Page" about="/pages/blog" class="">
+<a href="http://betabulls.com/pages/blog" property="dc:title">BLOG</a>
+</li>
+ 
+<li><a href="http://betabulls.com/#contact">
+ <svg id="emailIcon" class="email-icon-header" rel="tipsy" undefined="" version="1.1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" x="0px" y="0px" viewBox="0 0 512 512" enable-background="new 0 0 512 512" xml:space="preserve"><path id="email-icon" d="M170.544,239.052L50,146.454v213.142L170.544,239.052z M460.928,103.407H51.416l204.593,157.162L460.928,103.407z M313.355,260.696l-57.364,43.994l-57.454-44.135L50.5,408.593h410.751L313.355,260.696z M341.367,239.212L462,359.845V146.693L341.367,239.212z"></path></svg> 
+</a>
+</li>
+</ul>
+</div>
+</div>
+<div id="fixedForBetaBulls">
+<a href="http://smbs.betabulls.com/"><img src="./Start-ups_files/ForEnterprise.png" class="img-responsive"></a>
+</div>
+<span class="home">
+<div id="headerwrap" class="pure-g-r headerwrap-main">
+<div class="pure-u-1 center">
+<div class="banner-txt">
+<h1>We Build Apps<br> for startups</h1>
+<h2>We are your interim CTO</h2>
+</div>
+</div> 
+</div> 
+<div class="pure-g-r w">
+<div class="pure-u-1 center">
+<div class="pure-u-1-4 bb-aspect">
+ <svg id="heartIcon" class="heart-icon home-icon" rel="tipsy" undefined="" version="1.1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" x="0px" y="0px" viewBox="0 0 512 512" enable-background="new 0 0 512 512" xml:space="preserve"><path id="favorite-4-icon" d="M457.901,146.444C436.495,54.316,301.703,30.921,256,124.192C210.297,30.921,75.506,54.314,54.099,146.444C19.256,296.402,216.886,364.586,256,447.25C295.114,364.586,492.744,296.404,457.901,146.444z"></path></svg> 
+<h4>We Love Ideas</h4>
+<p>Working with new ideas and start-ups is our passion. Not work.</p>
+</div> 
+<div class="pure-u-1-4 bb-aspect bb-lean">
+<img class="home-icon leanstartup-icon" src="./Start-ups_files/Lean-Startup_icon-pink.png" alt="lean startup png icon pink">
+<h4>We Believe in Lean</h4>
+<p>Prototype now, full product later. We work very hard to convince you on this model even if you are ready to spend money on a full product.</p>
+</div> 
+<div class="pure-u-1-4 bb-aspect">
+ <svg id="mapIcon" class="map-icon home-icon" rel="tipsy" undefined="" version="1.1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" x="0px" y="0px" viewBox="0 0 512 512" enable-background="new 0 0 512 512" xml:space="preserve"><path id="crosshair-11-icon" d="M389.214,50.573c-44.528,0-80.626,36.097-80.626,80.626c0,45.218,39.203,75.043,80.626,116.513c41.423-41.47,80.626-71.295,80.626-116.513C469.84,86.67,433.743,50.573,389.214,50.573z M398.784,187.105v-27.196h-19.141v27.196c-24.977-4.063-44.7-23.766-48.796-48.732h27.261v-19.14h-27.285c4.039-25.039,23.793-44.813,48.82-48.885v27.349h19.141V70.349c25.028,4.071,44.781,23.846,48.821,48.885h-27.286v19.14h27.261C443.485,163.34,423.761,183.042,398.784,187.105z M389.215,303.562c9.389,0,17-7.611,17-17s-7.611-17-17-17s-17,7.611-17,17S379.826,303.562,389.215,303.562z M425.434,247.905c-0.438,0.424-0.883,0.855-1.324,1.281v132.385l-74.961,40.703v-90.213h-15.023v88.572l-81.807-52.91v-75.412H237.99v75.412l-79.801,52.91v-88.572h-15.027v90.213l-70.953-40.703V154.638l70.953,37.941v75.982h15.027v-75.293l79.801-41.385v78.928h14.328v-78.928l39.012,19.377c-4.959-11.707-7.924-24.307-8.168-38.217l-38.008-18.865l-93.811,48.742l-109.184-58.1v294.277l109.184,62.328l93.811-62.32l95.814,62.32l113.191-62.328V219.095C445.189,228.81,435.391,238.284,425.434,247.905zM362.889,308.55l-6.803-19.533c-3.686,1.285-7.539,1.936-11.451,1.936c-4.775,0-9.414-0.957-13.791-2.846l-8.197,18.99c6.979,3.014,14.377,4.541,21.988,4.541C350.867,311.638,357.01,310.599,362.889,308.55z M305.109,297.499l10.236-17.975l-29.137-16.592l-10.234,17.975L305.109,297.499z M140.869,288.421l-7.152,19.406c6.16,2.271,12.615,3.424,19.186,3.424c7.27,0,14.363-1.398,21.078-4.156l-7.855-19.135c-4.211,1.729-8.66,2.605-13.223,2.605C148.781,290.565,144.732,289.845,140.869,288.421z M90.215,286.562c0,9.389,7.611,17,17,17s17-7.611,17-17s-7.611-17-17-17S90.215,277.173,90.215,286.562z M228.273,252.372l7.037,19.451c3.807-1.377,7.793-2.076,11.846-2.078c4.631,0,9.141,0.904,13.406,2.686l7.969-19.09c-6.805-2.84-13.994-4.279-21.377-4.279C240.695,249.062,234.344,250.177,228.273,252.372z M191.785,297.153l28.762-17.234l-10.633-17.744l-28.762,17.236L191.785,297.153z"></path></svg> 
+<h4>Idea to Product</h4>
+<p>We build an awesome, usable product around your idea.</p>
+</div>
+</div> 
+<div class="pure-u-1 center">
+<div class="pure-u-1-4 bb-aspect">
+ <svg id="wrenchIcon" class="wrench-icon home-icon" rel="tipsy" undefined="" version="1.1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" x="0px" y="0px" viewBox="0 0 512 512" enable-background="new 0 0 512 512" xml:space="preserve"><path id="wrench-20-icon" d="M297.466,232.36l23.508-35.26c6.012-9.013,18.193-11.451,27.207-5.439c9.016,6.009,11.451,18.192,5.443,27.205l-23.508,35.26c-6.01,9.016-18.193,11.453-27.207,5.444C293.894,253.558,291.454,241.376,297.466,232.36z M265.165,220.628c9.029,6.021,21.232,3.58,27.252-5.45l23.74-35.605c6.02-9.032,3.578-21.234-5.455-27.258c-9.027-6.02-21.232-3.579-27.25,5.452l-23.738,35.607C253.692,202.403,256.132,214.605,265.165,220.628z M385.464,288.406l-20.795,31.189c-5.531,8.296-3.289,19.504,5.006,25.034c8.295,5.532,19.502,3.29,25.035-5.005l20.793-31.193c5.533-8.295,3.291-19.505-5.008-25.033C402.2,277.867,390.993,280.109,385.464,288.406z M332.743,273.993c-5.99,8.987-3.564,21.131,5.426,27.12c8.988,5.993,21.129,3.563,27.121-5.426l22.527-33.791c5.994-8.986,3.564-21.13-5.426-27.123c-8.986-5.99-21.129-3.563-27.119,5.426L332.743,273.993z M441.091,432.165c-15.982,15.983-41.896,15.983-57.879,0L280.513,327.372c18.676-20.651,9.6-56.29-20.289-61.598l-52.777-9.375l-18.157-18.158c-10.297-10.298-24.485-15.73-39.026-14.955c-23.71,1.263-47.836-7.156-65.945-25.266c-24.266-24.265-31.137-59.329-20.629-89.719l55.172,55.172c21.523,1.267,54.805-32.013,53.539-53.535l-55.172-55.174c30.389-10.508,65.453-3.637,89.717,20.628c18.111,18.11,26.53,42.236,25.267,65.945c-0.774,14.53,4.664,28.737,14.953,39.026l0.47,0.47c-21.34,35.758,7.426,60.254,31.002,59.349c-4.242,20.265,17.449,41.38,36.068,41.38c-4.605,17.852,9.215,36.471,30.713,40.694c-8.662,31.284,38.766,64.66,66.229,22.586l29.445,29.444C457.071,390.271,457.071,416.181,441.091,432.165z M427.022,400.728c0-9.314-7.551-16.866-16.867-16.866c-9.314,0-16.867,7.552-16.867,16.866c0,9.318,7.553,16.87,16.867,16.87C419.472,417.598,427.022,410.046,427.022,400.728zM279.858,351.467c-11.455-11.805-29.215-12.69-61.525-14.83c-4.91-0.325-7.928,2.824-8.342,7.596c-0.092,1.071-7.859,72.236-7.859,72.236s47.959,32.404,67.65,45.531c18.264-32.976,46.336-34.965,67.311-51.544L279.858,351.467zM252.011,322.409c25.016-0.002,28.795-35.432,5.193-39.624c-88.76-15.769-84.098-15.259-87.025-15.259c-10.898,0-20.342,7.778-22.453,18.498l-7.668,67.748c-1.037,10.822,2.477,20.188,10.865,26.288c8.367,6.086,34.787,24.88,34.787,24.88s5.629-48.67,7.213-62.669c1.586-13.998,9.449-23.653,24.434-22.921C218.944,319.428,249.284,322.409,252.011,322.409z"></path></svg> 
+<h4>We Support &amp; Maintain</h4>
+<p>We make sure your product is up and running. You focus on demos and the path to world domination.</p>
+</div> 
+<div class="pure-u-1-4 bb-aspect">
+ <svg id="checkIcon" class="check-icon home-icon" rel="tipsy" undefined="" version="1.1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" x="0px" y="0px" viewBox="0 0 512 512" enable-background="new 0 0 512 512" xml:space="preserve"><path id="check-mark-11-icon" d="M429.18,227.567c17.294,115.72-72.229,219.077-188.533,219.077C135.355,446.645,50,361.291,50,256.001c0-105.289,85.355-190.646,190.647-190.646c46.292,0,88.727,16.504,121.751,43.943l-30.676,30.677c-25.078-19.711-56.704-31.471-91.076-31.471c-81.461,0-147.497,66.034-147.497,147.496c0,81.46,66.036,147.494,147.497,147.494c77.052,0,140.295-59.09,146.911-134.425L429.18,227.567z M410.771,101.666L251.343,261.092l-69.055-69.074l-51.208,51.216l120.265,120.299L462,152.861L410.771,101.666z"></path></svg> 
+<h4>Obsessed with Quality</h4>
+<p>We are fanatics about frameworks and standards. Result is high quality product at lower cost faster.</p>
+</div> 
+<div class="pure-u-1-4 bb-aspect">
+ <svg id="compassIcon" class="compass-icon home-icon" rel="tipsy" undefined="" version="1.1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" x="0px" y="0px" viewBox="0 0 512 512" enable-background="new 0 0 512 512" xml:space="preserve"><path id="compass-6-icon" d="M270.572,117.05v36.2h-7.852l-0.072-0.123l-13.737-23.271v23.395h-7.482v-36.2h7.802l13.857,23.446V117.05H270.572z M377.592,267v-8.25h16.436v-6.6h-16.436V245H395.5v-7.1h-25.865V274.1h26.244V267H377.592z M154.453,237.9l-5.41,23.943l-5.64-23.943h-7.377l-5.732,23.646L125.07,237.9h-7.979l9.056,36.01l0.048,0.189h7.946l5.502-23.658l5.596,23.658h7.803l9.247-36.199H154.453z M243.526,395.993c2.051,1.134,6.155,2.269,10.313,2.269c9.99,0,14.634-5.185,14.634-11.287c0-5.184-2.97-8.531-9.396-10.908c-4.753-1.836-6.75-2.861-6.75-5.184c0-1.836,1.728-3.51,5.292-3.51c3.51,0,6.156,1.025,7.561,1.728l1.836-6.589c-2.16-1.025-5.131-1.836-9.289-1.836c-8.531,0-13.77,4.699-13.77,10.908c0,5.347,3.996,8.695,10.044,10.855c4.374,1.512,6.103,2.861,6.103,5.075c0,2.431-1.998,3.996-5.779,3.996c-3.51,0-6.965-1.134-9.125-2.269L243.526,395.993z M306.203,249.68c1.82,15.804-3.748,30.641-14.312,41.201c-10.985,10.987-25.785,15.879-40.481,14.403L156.06,355.94l50.681-95.397c-1.452-14.441,3.337-29.396,14.376-40.436c11.13-11.131,26.201-16.04,41.203-14.312l93.621-49.734L306.203,249.68z M271.738,240.26c-8.414-8.414-22.057-8.414-30.47,0c-8.414,8.414-8.414,22.057,0,30.471s22.054,8.415,30.47,0C280.153,262.316,280.153,248.675,271.738,240.26z M462,256c0,113.771-92.229,206-206,206S50,369.771,50,256S142.229,50,256,50S462,142.229,462,256z M422,256c0-91.756-74.26-166-166-166c-91.756,0-166,74.259-166,166c0,91.755,74.259,166,166,166C347.755,422,422,347.741,422,256z"></path></svg> 
+<h4>Mentorship</h4>
+<p>Apart from technology, our business experts mentor you with lean advice and a helping hand.</p>
+</div> 
+</div> 
+<div class="pure-u-1 center">
+<div class="pure-u-1-4 bb-aspect">
+ <svg id="banknoteIcon" class="banknote-icon home-icon" rel="tipsy" undefined="" version="1.1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" x="0px" y="0px" viewBox="0 0 512 512" enable-background="new 0 0 512 512" xml:space="preserve"><path id="banknote-3-icon" d="M256,192.8c-34.904,0-63.2,28.296-63.2,63.2s28.296,63.199,63.2,63.199s63.199-28.295,63.199-63.199S290.904,192.8,256,192.8z M262.281,288.537v8.106h-11.596v-7.25c-5.566-0.476-12.917-2.493-18.332-5.477l3.836-13.364c6.133,2.391,15.08,5.398,21.697,3.955c5.787-1.263,7.245-6.459,0.434-9.395c-5.752-2.584-25.551-5.283-25.551-21.841c0-6.86,5.141-16.288,17.916-19.077v-8.226h11.596v7.549c4.971,0.342,10.039,1.26,15.894,3.091c-0.585,2.558-3.116,13.657-3.116,13.657c-4.043-1.375-10.65-3.78-16.994-3.424c-7.839,0.44-8.4,6.165-3.116,8.808c10.84,4.901,26.54,9.071,26.54,23.691C281.504,280.639,272.701,287.073,262.281,288.537z M50,148.006v215.988h412V148.006H50zM388.703,333.994H123.297c-8.275-17.299-26.018-35.3-43.297-44.053v-67.883c17.279-8.753,35.021-26.755,43.297-44.053h265.406c8.275,17.298,26.018,35.3,43.297,44.053v67.883C414.721,298.694,396.979,316.695,388.703,333.994z"></path></svg> 
+<h4>Most Affordable</h4>
+<p>You don't have to break the bank to purse your idea. No need to give up equity or complicated paperwork.</p>
+</div> 
+</div> 
+<br>
+<br>
+</div> 
+ 
+<div id="dg">
+<div class="pure-g-r">
+<div class="pure-u-1 center">
+<h4>LATEST WORKS</h4>
+<br>
+<div class="pure-u-1-3 home-device-bg phone-height">
+<a target="_blank" href="http://neverforgottenapp.com/">
+<img src="./Start-ups_files/mobile4.png" alt="Never Forgotten iPhone iOS app BetaBulls">
+<br>
+<p>
+<strong>Never forgotten</strong> will send alerts to the user with set intervals. This app is very simple to use and a great help to parents. Users can also add their friends and relatives to receive the alerts for additional peace of mind.
+</p>
+</a>
+</div>
+<div class="pure-u-1-3 home-device-bg">
+ 
+<a target="_blank" href="http://kanguruapp.com/">
+ 
+<img src="./Start-ups_files/mobile1.png" alt="Kanguru iPhone iOS app BetaBulls">
+ 
+<br>
+<p>
+ 
+<strong>Kanguru </strong>app brings new way for mentorship by managing huge Mentor &amp; Mentee network. Create a time bound Circle to form a team and get or provide the mentorship. Easily manage tasks and meetings with in the circle. Earn points and badges to measure the performance.
+</p>
+</a>
+</div>
+</div> 
+<div class="pure-u-1 center">
+<div class="pure-u-3-4 screen home-device-bg">
+<a target="_blank" href="https://vendorvid.com/">
+<img src="./Start-ups_files/vendorvid.png" alt="web app screen">
+<br>
+</a><p><a target="_blank" href="https://vendorvid.com/">
+<br>
+<strong>VendorVid</strong> provides innovative way of peer to peer video communication for the process of selecting right vendor for a service.
+</a>
+</p></div>
+</div> 
+</div> 
+</div>  
+<div id="r">
+<div class="pure-g-r">
+<div class="pure-u-1 center">
+<h4>WANT TO LEARN MORE?</h4>
+<a href="http://betabulls.com/pages/how-it-works">
+<h2><button type="button btn-default btn-xlarge" class="btn btn-primary btn-xlarge"><b>How It Works</b></button></h2>
+</a>
+</div> 
+</div> 
+</div> 
+ 
+<div class="yui3-skin-sam lean-modal-frame">
+<div id="leanModal"><div class="yui3-widget-mask" style="position: fixed; width: 100%; height: 100%; top: 0px; left: 0px; z-index: 0; display: none;" hidden="true"></div> <div id="yui_patched_v3_11_0_2_1481015489768_16" class="yui3-widget modal yui3-widget-positioned yui3-widget-modal yui3-widget-stacked modal-hidden" tabindex="0" style="height: 404px; width: 595px; left: 1820px; top: 765px; z-index: 0;"><div id="yui_patched_v3_11_0_2_1481015489768_18" class="modal-content yui3-widget-stdmod yui3-widget-content-expanded"><div class="yui3-widget-hd modal-header"><div id="yui_patched_v3_11_0_2_1481015489768_112" class="toolbar-content yui3-widget component toolbar"><button type="button" class="btn close">×</button></div><h3>What is The Lean Startup?</h3></div><div class="yui3-widget-bd modal-body" style="height: 325px; max-height: 404px;"><div class="pure-u-1 center lean-modal"> <iframe width="560" height="315" src="./Start-ups_files/_a3s0IXSuxY.html" frameborder="0" allowfullscreen=""></iframe> </div> <!-- .pure-u-1 .center --></div></div></div></div> 
+</div> 
+</span>  
+ 
+<div id="f">
+<div class="pure-g-r">
+<br>
+<div class="pure-u-1 center">
+<a href="https://twitter.com/betabulls" title="Tweet to BetaBulls">
+ <svg id="twitterIcon" class="twitter-icon-footer footer-icon" rel="tipsy" undefined="" version="1.1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" x="0px" y="0px" viewBox="0 0 512 512" enable-background="new 0 0 512 512" xml:space="preserve"><path id="twitter-4-icon" d="M256,50C142.229,50,50,142.229,50,256s92.229,206,206,206s206-92.229,206-206S369.771,50,256,50zM359.599,220.506c3.021,67.199-47.096,142.124-135.802,142.124c-26.981,0-52.096-7.911-73.238-21.466c25.347,2.987,50.646-4.044,70.734-19.786c-20.907-0.386-38.554-14.198-44.632-33.181c7.486,1.432,14.851,1.013,21.575-0.816c-22.976-4.617-38.839-25.317-38.321-47.453c6.44,3.58,13.81,5.729,21.642,5.977c-21.278-14.221-27.303-42.318-14.785-63.789c23.563,28.906,58.77,47.928,98.478,49.92c-6.969-29.886,15.702-58.667,46.542-58.667c13.742,0,26.16,5.802,34.874,15.088c10.884-2.143,21.108-6.119,30.341-11.594c-3.567,11.157-11.144,20.521-21.008,26.433c9.665-1.153,18.874-3.722,27.441-7.523C377.035,205.355,368.935,213.771,359.599,220.506z"></path></svg> 
+</a>
+<a href="https://www.facebook.com/betabulls" title="BetaBulls Facebook page">
+ <svg id="facebookIcon" class="facebook-icon-footer footer-icon" rel="tipsy" undefined="" version="1.1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" x="0px" y="0px" viewBox="0 0 512 512" enable-background="new 0 0 512 512" xml:space="preserve"><path id="facebook-circle-icon" d="M256.417,50c-113.771,0-206,92.229-206,206s92.229,206,206,206s206-92.229,206-206S370.188,50,256.417,50z M317.385,171.192c0,0-20.604,0-28.789,0c-10.162,0-12.28,4.163-12.28,14.678c0,8.75,0,25.404,0,25.404h41.069l-3.951,44.596h-37.118v133.227h-53.2V256.435h-27.666v-45.16h27.666c0,0,0-6.493,0-35.565c0-33.379,17.849-50.807,57.437-50.807c6.484,0,36.833,0,36.833,0V171.192z"></path></svg> 
+</a>
+ 
+<a href="https://github.com/BetaBulls" title="BetaBulls Github page">
+ <svg id="githubIcon" class="github-icon-footer footer-icon" rel="tipsy" undefined="" version="1.1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" x="0px" y="0px" viewBox="0 0 512 512" enable-background="new 0 0 512 512" xml:space="preserve"><path id="github-2-circle-icon" d="M166.96,311.252c0,0.681-0.779,1.231-1.739,1.231c-0.961,0-1.739-0.551-1.739-1.231c0-0.683,0.778-1.234,1.739-1.234C166.181,310.018,166.96,310.569,166.96,311.252z M169.361,314.067c-1.123,0-2.034,0.647-2.034,1.442c0,0.797,0.911,1.443,2.034,1.443c1.122,0,2.032-0.646,2.032-1.443C171.394,314.715,170.483,314.067,169.361,314.067z M179.201,323.568c-1.387,0-2.512,0.799-2.512,1.782c0,0.984,1.125,1.78,2.512,1.78c1.386,0,2.511-0.796,2.511-1.78C181.712,324.367,180.587,323.568,179.201,323.568z M156.761,304.004c-0.737,0-1.335,0.424-1.335,0.947c0,0.521,0.598,0.945,1.335,0.945s1.335-0.424,1.335-0.945C158.096,304.428,157.498,304.004,156.761,304.004z M160.961,306.658c-0.819,0-1.484,0.472-1.484,1.053c0,0.58,0.665,1.051,1.484,1.051c0.817,0,1.482-0.471,1.482-1.051C162.443,307.13,161.778,306.658,160.961,306.658zM173.921,318.797c-1.248,0-2.26,0.719-2.26,1.604c0,0.887,1.012,1.604,2.26,1.604s2.261-0.717,2.261-1.604C176.182,319.516,175.169,318.797,173.921,318.797z M462,256c0,113.771-92.229,206-206,206S50,369.771,50,256S142.229,50,256,50S462,142.229,462,256z M355.902,266.854c0.604-1.361,1.202-2.729,1.719-4.166c16.121-1.293,32.729-1.166,49.435,0.457l0.265-2.75c-16.484-1.6-32.881-1.742-48.808-0.526c2.56-8.17,3.909-17.398,3.812-27.893c-0.21-22.294-7.644-39.658-19.326-54.068c2.243-13.573,0.553-27.146-3.681-40.724c-16.694,1.367-31.719,6.834-45.097,16.333c-25.002-5.072-50.001-5.395-75.004,0c-15.604-10.532-30.928-15.697-46.015-16.333c-4.472,14.951-5.161,29.688-1.38,44.177c-13.162,13.966-18.192,30.92-17.945,49.693c0.141,10.747,1.796,20.31,4.852,28.765c-15.694-1.151-31.825-0.997-48.049,0.575l0.266,2.75c16.521-1.604,32.947-1.736,48.902-0.488c0.586,1.42,1.175,2.836,1.848,4.188c-17.287-0.456-32.845,1.046-47.415,4.629l0.657,2.68c14.788-3.634,30.63-5.098,48.317-4.502c11.697,20.781,34.215,32.992,67.006,36.867c-7.618,6.188-11.714,13.486-12.769,21.745c0,0-3.447,0-17.367,0c-23.324,0-29.683-29.739-53.841-26.806c23.437,11.623,18.756,48.773,56.259,48.773c12.604,0,15.283,0,15.756,0v34.054c0.167,5.503-2.229,9.183-6.098,11.733c13.431,1.355,23.524-5.35,23.524-13.574c0-8.227,0-41.004,0-45.014s4.199-4.32,4.199-4.32v52.555c0.178,5.23-2.364,8.203-5.062,11.044c11.833,0.472,22.963-1.892,23.467-11.962c0,0,0-47.77,0-50.299c0-2.528,4.145-2.591,4.145,0c0,2.592,0,47.938,0,47.938c0.122,8.496,7.46,15.384,23.006,14.322c-4.159-3.348-5.436-6.731-5.436-11.628s0-51.971,0-51.971s4.285-0.219,4.285,4.32c0,4.54,0,36.238,0,43.834c0,9.756,11.711,13.781,25.077,13.402c-4.379-3.28-7.343-7.192-7.361-12.424v-52.715c-0.452-7.748-3.603-15.053-9.779-21.858c29.975-4.603,51.579-16.567,62.337-38.013c17.745-0.609,33.635,0.851,48.461,4.496l0.658-2.68C389.038,267.863,373.352,266.363,355.902,266.854z M213.73,331.139c-1.54,0-2.79,0.889-2.79,1.981s1.25,1.979,2.79,1.979c1.541,0,2.79-0.887,2.79-1.979S215.271,331.139,213.73,331.139z M204.521,330.96c-1.541,0-2.789,0.888-2.789,1.981c0,1.092,1.248,1.979,2.789,1.979c1.54,0,2.79-0.887,2.79-1.979C207.311,331.848,206.061,330.96,204.521,330.96z M195.19,330.659c-1.54,0-2.79,0.888-2.79,1.981c0,1.092,1.25,1.979,2.79,1.979c1.542,0,2.79-0.887,2.79-1.979C197.98,331.547,196.732,330.659,195.19,330.659z M186.342,328.049c-1.542,0-2.791,0.888-2.791,1.98c0,1.094,1.249,1.98,2.791,1.98c1.54,0,2.789-0.887,2.789-1.98C189.131,328.937,187.882,328.049,186.342,328.049z"></path></svg> 
+</a>
+</div> 
+<br>
+<div class="pure-u-1 center">
+©2014 BetaBulls <span class="muted">*</span>&nbsp;
+<a href="http://betabulls.com/pages/privacy">Privacy Policy</a>
+</div> 
+</div> 
+</div> 
+ 
+ 
+<div class="yui3-skin-sam">
+<div id="contact"> <div id="yui_patched_v3_11_0_1_1481015489768_31" class="yui3-widget modal yui3-widget-positioned yui3-widget-modal yui3-widget-stacked modal-hidden" tabindex="0" style="height: 606px; width: 565px; left: 1835px; top: 664px; z-index: 0;"><div id="yui_patched_v3_11_0_1_1481015489768_33" class="modal-content yui3-widget-stdmod yui3-widget-content-expanded"><div class="yui3-widget-hd modal-header"><div id="yui_patched_v3_11_0_1_1481015489768_129" class="toolbar-content yui3-widget component toolbar"><button type="button" class="btn close">×</button></div><h3>.</h3></div><div class="yui3-widget-bd modal-body" style="height: 527px; max-height: 606px;"><div class="pure-u-1 center"><p style="font-size: 15px;">Mountain View Office Park, 850 Bear Tavern Road, Suite 105, Ewing, NJ 08628</p><span class="jot-form"><iframe class="jot-frame" id="JotFormIFrame" onload="window.parent.scrollTo(0,0)" allowtransparency="true" src="./Start-ups_files/41991233222449.html" frameborder="0" style="width:100%; height:585px; border:none;" scrolling="no"></iframe><script type="text/javascript">window.handleIFrameMessage = function(e) {var args = e.data.split(":");var iframe = document.getElementById("JotFormIFrame");if (!iframe)return;switch (args[0]) {case "scrollIntoView":iframe.scrollIntoView();break;case "setHeight":iframe.style.height = args[1] + "px";break;}};if (window.addEventListener) {window.addEventListener("message", handleIFrameMessage, false);} else if (window.attachEvent) {window.attachEvent("onmessage", handleIFrameMessage);}</script></span></div> <!-- .pure-u-1 .center --></div></div></div></div> 
+</div> 
+</div>  
+ 
+<script defer="defer" data-rocketsrc="http://cdn.alloyui.com/2.0.0/aui/aui-min.js" type="text/rocketscript" data-rocketoptimized="true"></script><script defer="defer" data-rocketsrc="/js/script.js" type="text/rocketscript" data-rocketoptimized="true"></script>
+<script defer="defer" data-rocketsrc="/js/home.js" type="text/rocketscript" data-rocketoptimized="true"></script>
+ 
+ 
+<script data-cfasync="false" type="text/javascript">/*<![CDATA[*/window.olark||(function(c){var f=window,d=document,l=f.location.protocol=="https:"?"https:":"http:",z=c.name,r="load";var nt=function(){
+f[z]=function(){
+(a.s=a.s||[]).push(arguments)};var a=f[z]._={
+},q=c.methods.length;while(q--){(function(n){f[z][n]=function(){
+f[z]("call",n,arguments)}})(c.methods[q])}a.l=c.loader;a.i=nt;a.p={
+0:+new Date};a.P=function(u){
+a.p[u]=new Date-a.p[0]};function s(){
+a.P(r);f[z](r)}f.addEventListener?f.addEventListener(r,s,false):f.attachEvent("on"+r,s);var ld=function(){function p(hd){
+hd="head";return["<",hd,"></",hd,"><",i,' onl' + 'oad="var d=',g,";d.getElementsByTagName('head')[0].",j,"(d.",h,"('script')).",k,"='",l,"//",a.l,"'",'"',"></",i,">"].join("")}var i="body",m=d[i];if(!m){
+return setTimeout(ld,100)}a.P(1);var j="appendChild",h="createElement",k="src",n=d[h]("div"),v=n[j](d[h](z)),b=d[h]("iframe"),g="document",e="domain",o;n.style.display="none";m.insertBefore(n,m.firstChild).id=z;b.frameBorder="0";b.id=z+"-loader";if(/MSIE[ ]+6/.test(navigator.userAgent)){
+b.src="javascript:false"}b.allowTransparency="true";v[j](b);try{
+b.contentWindow[g].open()}catch(w){
+c[e]=d[e];o="javascript:var d="+g+".open();d.domain='"+d.domain+"';";b[k]=o+"void(0);"}try{
+var t=b.contentWindow[g];t.write(p());t.close()}catch(x){
+b[k]=o+'d.write("'+p().replace(/"/g,String.fromCharCode(92)+'"')+'");d.close();'}a.P(2)};ld()};nt()})({
+loader: "static.olark.com/jsclient/loader0.js",name:"olark",methods:["configure","extend","declare","identify"]});
+/* custom configuration goes here (www.olark.com/documentation) */
+olark.identify('6583-919-10-2438');/*]]>*/</script><noscript>&lt;a href="https://www.olark.com/site/6583-919-10-2438/contact" title="Contact us" target="_blank"&gt;Questions? Feedback?&lt;/a&gt; powered by &lt;a href="http://www.olark.com?welcome" title="Olark live chat software"&gt;Olark live chat software&lt;/a&gt;</noscript>
+ 
+ 
+<script type="text/rocketscript" data-rocketoptimized="true">
+setTimeout(function(){var a=document.createElement("script");
+var b=document.getElementsByTagName("script")[0];
+a.src=document.location.protocol+"//dnn506yrbagrg.cloudfront.net/pages/scripts/0022/0190.js?"+Math.floor(new Date().getTime()/3600000);
+a.async=true;a.type="text/javascript";b.parentNode.insertBefore(a,b)}, 1);
+</script>
+ 
+ 
+<script data-rocketsrc="//tapfiliate.com/tapfiliate.js" type="text/rocketscript" async="" data-rocketoptimized="true"></script>
+<script type="text/rocketscript" data-rocketoptimized="true">
+  window['TapfiliateObject'] = i = 'tap';
+  window[i] = window[i] || function () {
+      (window[i].q = window[i].q || []).push(arguments);
+  };
+
+  tap('create', '282-54b61f');
+  tap('detectClick');
+</script>
+<script type="text/rocketscript" data-rocketoptimized="true">
+	var url = window.location.href;
+	url1 = url.substring(url.indexOf("?"));
+	//document.cookie = url1;
+	//document.getElementById("demo1").innerHTML = url1;
+	window.name = url1;
+</script>
+ 
+
+
+</div><span style="display: none;"><iframe style="display: none !important;" id="_olark_framesocket62178" src="./Start-ups_files/storage.html"></iframe></span><div id="habla_beta_container_do_not_rely_on_div_classes_or_names" class="habla-browser-chrome habla-desktop olrk-noquirks"><div id="hbl_operator_state_div" class="olrk-away"><div id="hbl_region" class="olrk-normal"><div id="habla_window_state_div" class=" olrk-state-compressed"><div id="habla_window_div" style="margin: 0px 20px; bottom: 0px; right: 0px; display: none; position: fixed;" class="habla_window_div_base hbl_pal_main_width olrk-fixed-bottom olrk-fixed-right "><div id="habla_compressed_div" style="display: block;"></div><div id="habla_panel_div" class="habla_panel_border hbl_pal_main_bg hbl_pal_panel_border hbl_pal_main_font_family hbl_pal_main_font_size " style="display: block;"><div id="habla_both_div" style="display: block;"><div id="habla_topbar_div" class="habla_topbar_div_normal hbl_pal_title_fg hbl_pal_title_bg habla_topbar_div_compressed "><a id="habla_sizebutton_a" class="habla_button habla_button_a_normal hbl_pal_header_font_size hbl_pal_main_font_family hbl_pal_button_bg hbl_pal_button_fg ">^</a><a id="habla_oplink_a" class="habla_oplink_a_normal hbl_pal_header_font_size hbl_pal_title_fg ">Contact us!</a></div></div><div id="habla_expanded_div" style="display: none;"><div id="habla_middle_div"><div id="habla_middle_wrapper_div"><div id="habla_conversation_div" class="hbl_panel habla_conversation_div hbl_pal_main_height hbl_pal_control_border hbl_pal_main_fg hbl_pal_main_bg   habla_conversation_message_on " style="height: 155px; overflow: hidden; display: none;"><span id="hbl_body_message">Questions? We'd love to chat!</span></div><div id="habla_offline_message_sent_div" class="hbl_panel habla_offline_message_sent_div hbl_pal_main_height hbl_pal_control_border hbl_pal_main_fg " style="display: none;">Thanks for your message!  We'll get back to you shortly.</div><div id="habla_offline_message_div" class="hbl_panel habla_offline_message_div hbl_pal_control_border hbl_pal_main_fg " style="display: block;"><span id="habla_offline_message_span">We're not around, but we'd love to chat another time.</span><div class="hbl_txt_wrapper"><textarea id="habla_name_input" name="habla_name_input" class="habla_wcsend_field habla_wcsend_input_pre habla_wcsend_input_normal hbl_pal_input_pre_fg hbl_pal_main_font_family hbl_pal_input_font_size hbl_pal_control_border " placeholder="click here and type your Name" style="height: 20px; display: block;"></textarea></div><div class="hbl_txt_wrapper"><textarea id="habla_offline_email_input" name="habla_offline_email_input" class="habla_wcsend_field habla_wcsend_input_pre habla_wcsend_input_normal hbl_pal_input_pre_fg hbl_pal_main_font_family hbl_pal_input_font_size hbl_pal_control_border " placeholder="click here and type your Email" style="height: 20px; display: block;"></textarea></div><div class="hbl_txt_wrapper"><textarea id="habla_offline_body_input" name="habla_offline_body_input" class="habla_wcsend_field habla_wcsend_input_pre habla_wcsend_input_normal hbl_pal_input_pre_fg hbl_pal_main_font_family hbl_pal_input_font_size hbl_pal_control_border " placeholder="We&#39;re not around but we still want to hear from you!  Leave us a note:" style="height: 70px; display: block;"></textarea></div><span id="habla_offline_error_span" class="habla_offline_error_span "></span><input id="habla_offline_submit_input" name="habla_offline_submit_input" type="submit" class="habla_offline_submit_input hbl_pal_offline_submit_fg hbl_pal_control_border hbl_pal_offline_submit_bg " value="Send" style="display: block;"><div id="habla_offline_clear_div" class="clear_style "></div></div><div id="habla_pre_chat_div" class="hbl_panel habla_pre_chat_div hbl_pal_main_height hbl_pal_main_fg " style="display: none; height: 155px;"><span id="habla_pre_chat_span">Hi, I am around, click 'start chatting' to contact me.</span><div class="hbl_txt_wrapper"><textarea id="habla_pre_chat_name_input" name="habla_pre_chat_name_input" class="habla_wcsend_field habla_wcsend_input_pre habla_wcsend_input_normal hbl_pal_input_pre_fg hbl_pal_main_font_family hbl_pal_input_font_size hbl_pal_control_border " placeholder="click here and type your Name" style="height: 20px; line-height: 20px;"></textarea></div><div class="hbl_txt_wrapper"><textarea id="habla_pre_chat_email_input" name="habla_pre_chat_email_input" class="habla_wcsend_field habla_wcsend_input_pre habla_wcsend_input_normal hbl_pal_input_pre_fg hbl_pal_main_font_family hbl_pal_input_font_size hbl_pal_control_border " placeholder="click here and type your Email" style="height: 20px; line-height: 20px;"></textarea></div><div class="hbl_txt_wrapper" style="display: none;"><textarea id="habla_pre_chat_phone_input" name="habla_pre_chat_phone_input" class="habla_wcsend_field habla_wcsend_input_pre habla_wcsend_input_normal hbl_pal_input_pre_fg hbl_pal_main_font_family hbl_pal_input_font_size hbl_pal_control_border " placeholder="click here and type your Phone" style="height: 20px; line-height: 20px; display: none;"></textarea></div><span id="habla_pre_chat_error_span"></span><input id="habla_pre_chat_submit_input" name="habla_pre_chat_submit_input" type="submit" class="habla_pre_chat_form_field habla_offline_submit_input hbl_pal_offline_submit_fg hbl_pal_control_border hbl_pal_offline_submit_bg " value="Click here to start chatting"><div id="habla_pre_chat_clear_div" class="clear_style "></div></div></div><form id="habla_chatform_form" action="http://betabulls.com/#" method="GET" autocomplete="off" class="habla_chatform_form " style="display: none;"><div id="habla_input_div" class="habla_input_div "><div class="hbl_txt_wrapper"><textarea id="habla_wcsend_input" name="habla_wcsend_input" size="undefined" class="habla_wcsend_field habla_wcsend_input_pre habla_wcsend_input_normal hbl_pal_input_pre_fg hbl_pal_main_font_family hbl_pal_input_font_size hbl_pal_control_border " placeholder="Type here and hit enter to chat" disabled="" style="line-height: 20px; height: 20px; display: none;"></textarea></div></div></form></div><div style="clear: both;"><div id="olk-b-16994" data-reactid=".0"><div class="wrapper-olk-14145" style="display:none;" data-reactid=".0.0"><p class="description-olk-14145" data-reactid=".0.0.0">10,000+ companies rely on Olark software to chat with customers directly.</p><button class="cancel-button-olk-14145" data-reactid=".0.0.1">Go back</button><button class="referral-button-olk-14145" data-reactid=".0.0.2">Try Olark on your site</button></div><a class="brand-olk-14145" data-reactid=".0.1">Powered by Olark</a></div></div></div></div><div id="habla_closed_div" style="display: none;"></div></div></div></div></div></div><div id="yui3-css-stamp" style="position: absolute !important; visibility: hidden !important" class=""></div><iframe src="./Start-ups_files/saved_resource(1).html" style="width: 1px; height: 1px; display: none;"></iframe><iframe src="./Start-ups_files/saved_resource(2).html" style="width: 1px; height: 1px; display: none;"></iframe></body></html>
